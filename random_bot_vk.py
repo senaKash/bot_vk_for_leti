@@ -1,7 +1,7 @@
-token = "050b64a711fd36c5a0fe552e298cbee915030365f1f11c34160a91b24f28a537af445f55340402b7c5e58"
-id_txt = 'C:\\Users\\Sena\\Desktop\\random skripts\\randomVK\\id.txt'
-id_admin = 'C:\\Users\\Sena\\Desktop\\random skripts\\randomVK\\id_adm.txt'
-name_txt = 'C:\\Users\\Sena\\Desktop\\random skripts\\randomVK\\name.txt'
+token = ""
+#id_txt = 'E:\\random skripts\\randomVK\\id.txt' #не юзабельно, оставленно на всякий, смотри закомментированное
+#id_admin = 'E:\\random skripts\\randomVK\\id_adm.txt'
+#name_txt = 'E:\\random skripts\\randomVK\\name.txt'
 
 
 from threading import Thread
